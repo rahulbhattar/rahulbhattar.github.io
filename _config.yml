@@ -18,10 +18,10 @@ dark-theme: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/Sachin Suresh.pdf
+resume-url: assets/Nirmala_Resume.pdf
 
-domain: https://sachinsuresh10.github.io
-url: https://sachinsuresh10.github.io
+domain: https://github.com/NirmalaMallikarjuna1/NirmalaMallikarjuna1.github.io
+url: https://github.com/NirmalaMallikarjuna1/NirmalaMallikarjuna1.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
