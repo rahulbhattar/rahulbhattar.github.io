@@ -20,8 +20,8 @@ resume: true
 resume-external: true
 resume-url: assets/Nirmala_Resume.pdf
 
-domain: https://github.com/NirmalaMallikarjuna1/NirmalaMallikarjuna1.github.io
-url: https://github.com/NirmalaMallikarjuna1/NirmalaMallikarjuna1.github.io
+domain: https://nirmalamallikarjuna1.github.io
+url: https://nirmalamallikarjuna1.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
