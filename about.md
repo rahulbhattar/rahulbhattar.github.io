@@ -4,17 +4,22 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am Sachin Suresh, a proactive Data Science graduate with a robust Computer Science background and currently pursuing an M.Sc. in Data and Decision Analytics at the University of Southampton. At Quantum Sports Analytics, I am actively contributing to a project developing a hybrid data collection platform for football player analytics, utilizing my expertise in machine learning, data preprocessing, and advanced algorithm implementation. Proficient in Python, R, SQL, and tools like Power BI and Google Analytics, I bring a solid understanding of machine learning libraries such as TensorFlow and Keras, statistical modeling, and database management.Proven ability to analyse complex datasets, develop predictive models, and deliver actionable insights through practical experience and academic projects. The uniqueness of the Analytics and Data Science program lies in its intersection of Engineering, Humanities, Arts, Social Sciences, and Management, setting me up for a continuous journey of learning.</p>
+<p>I’m Nirmala Mallikarjuna, a results-oriented Financial Analyst with a Master’s degree in Finance from University of Dayton. With 4+ years of hands-on experience in financial forecasting, ledger reconciliation, and data-driven decision-making.At CVS Health, I Led impactful financial data analysis and reporting initiatives that drove strategic decision-making and operational efficiency. Designed executive dashboards in Power BI, enhanced audit compliance, and implemented financial tools in collaboration with IT, improving system capabilities and Developed cash flow models to support investment decisions and standardized reporting templates for consistency and faster reporting cycles. I specialize in transforming complex financial data into actionable insights through tools like Power BI, Tableau, SAP, and Excel. My expertise spans budgeting, cost-benefit analysis, and financial modeling, combined with a strong foundation in accounting practices such as AP/AR, general ledger management, and reconciliation.
+
+With a proven track record of improving financial processes and reporting efficiencies—such as optimizing SQL queries to accelerate report generation and designing dashboards for real-time performance tracking—I bring both strategic thinking and technical proficiency. I hold an SAP S/4HANA certification and continuously seek to expand my skills to stay at the forefront of financial analytics and business intelligence. I’m passionate about leveraging data to drive clarity, efficiency, and strategic growth.
+
+</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>Data Science: Machine learning, Computer Vision, Pattern & Trend identification, Probability, and Statistics.</li>
-<li>Analytics & Visualisation Tools: PowerBI, Advanced Microsoft Excel, Tableau, Google Analytics.</li>
-<li>Languages: Python, R, C, C++, SQL, JavaScript, HTML, CSS.</li>
-<li>Libraries: Numpy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, OpenCV, Supervision, tidyverse, randomForest.</li>
+<li>Analytics & Visualisation Tools: PowerBI, Advanced Microsoft Excel, Tableau, Google Analytics, VLOOKUP, Pivot Table, QuickBook.</li>
+<li>Financial Analysis: Budgeting, Forecasting, Cost Benefit Analysis, Financial Modeling, M&A, Reports and Discounted Cashflow.</li>
+<li>Accounting: Accounts Payable, Accounts Receivable, General Ledger, Reconciliation.</li>
+<li>Languages: SQL, R, SAP S/4 HANA FI/CO, Python.</li>
 <li>Databases: MySQL, SQL Server, MongoDB.</li>
-<li>Cloud: Salesforce Commerce Cloud (SFCC), AWS (EC2, Sagemaker, S3).</li>
+<li>Cloud And Applications: AWS, Azure, SharePoint, MS Excel.</li>
 
 
 </ul>
@@ -22,11 +27,10 @@ layout: page
 <h2>Education</h2>
 
 <ul>
-	<li><strong>University of Southampton, Southampton, United Kingdom</strong><br>
-	MSc in Data and Decision Analytics<br>
-	<i>Sep 2023 - Present</i></li>
-	<li><strong>Dr. Ambedkar Institute of Technology, Bangalore, India</strong><br>
-	Bachelor of Engineering in Computer Science & Engineering<br>
-	CGPA: 8.74/10<br>
-	<i>Jul 2017 - Aug 2021</i></li>
+	<li><strong>University of Dayton, Dayton, OH, United States.</strong><br>
+	Masters in Business and Finance, Management sciences and Quantitative Methods.<br>
+	<i>Aug 2021 - Aug 2023</i></li>
+	<li><strong>NMKRV College for Women, Bangalore, India.</strong><br>
+	Bachelor in Commerce.<br>
+	<i>Jul 2016 - jul 2019</i></li>
 </ul>
