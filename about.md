@@ -13,13 +13,12 @@ With a proven track record of improving financial processes and reporting effici
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Data Science: Machine learning, Computer Vision, Pattern & Trend identification, Probability, and Statistics.</li>
 <li>Analytics & Visualisation Tools: PowerBI, Advanced Microsoft Excel, Tableau, Google Analytics, VLOOKUP, Pivot Table, QuickBook.</li>
 <li>Financial Analysis: Budgeting, Forecasting, Cost Benefit Analysis, Financial Modeling, M&A, Reports and Discounted Cashflow.</li>
 <li>Accounting: Accounts Payable, Accounts Receivable, General Ledger, Reconciliation.</li>
 <li>Languages: SQL, R, SAP S/4 HANA FI/CO, Python.</li>
 <li>Databases: MySQL, SQL Server, MongoDB.</li>
-<li>Cloud And Applications: AWS, Azure, SharePoint, MS Excel.</li>
+
 
 
 </ul>
