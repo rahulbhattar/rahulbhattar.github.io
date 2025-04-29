@@ -4,21 +4,24 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I’m Nirmala Mallikarjuna, a results-oriented Financial Analyst with a Master’s degree in Finance from University of Dayton. With 4+ years of hands-on experience in financial forecasting, ledger reconciliation, and data-driven decision-making.At CVS Health, I Led impactful financial data analysis and reporting initiatives that drove strategic decision-making and operational efficiency. Designed executive dashboards in Power BI, enhanced audit compliance, and implemented financial tools in collaboration with IT, improving system capabilities and Developed cash flow models to support investment decisions and standardized reporting templates for consistency and faster reporting cycles. I specialize in transforming complex financial data into actionable insights through tools like Power BI, Tableau, SAP, and Excel. My expertise spans budgeting, cost-benefit analysis, and financial modeling, combined with a strong foundation in accounting practices such as AP/AR, general ledger management, and reconciliation.
+<p>My name is Rahul Bhattar, and I hold a Master’s degree in Computer Science from the University of Dayton, which I completed in August 2023. With over 5 years of experience as a software developer, I have worked across diverse domains including healthcare, gaming, and government sectors.
 
-With a proven track record of improving financial processes and reporting efficiencies—such as optimizing SQL queries to accelerate report generation and designing dashboards for real-time performance tracking—I bring both strategic thinking and technical proficiency. I hold an SAP S/4HANA certification and continuously seek to expand my skills to stay at the forefront of financial analytics and business intelligence. I’m passionate about leveraging data to drive clarity, efficiency, and strategic growth.
+Currently, I am working as a React Developer on a New Mexico State Government project through Deloitte. In this role, I’ve contributed to the modernization of legacy systems by developing scalable and accessible front-end applications using React and Redux, and building robust backend services using Node.js and Express.js. I also implemented CI/CD pipelines with GitHub Actions, optimized performance, and followed best practices in code quality and accessibility.
+
+Before this, I worked at Ivy Comptech, where I was part of the engineering team responsible for building high-performance gaming applications, including casino and party poker platforms.
+
+I am passionate about crafting user-centric applications, solving complex problems, and collaborating with cross-functional teams to deliver high-quality software. I am currently seeking full-time opportunities where I can continue to grow as a React stack developer and contribute meaningfully to innovative projects.
 
 </p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-<li>Analytics & Visualisation Tools: PowerBI, Advanced Microsoft Excel, Tableau, Google Analytics, VLOOKUP, Pivot Table, QuickBook.</li>
-<li>Financial Analysis: Budgeting, Forecasting, Cost Benefit Analysis, Financial Modeling, M&A, Reports and Discounted Cashflow.</li>
-<li>Accounting: Accounts Payable, Accounts Receivable, General Ledger, Reconciliation.</li>
-<li>Languages: SQL, R, SAP S/4 HANA FI/CO, Python.</li>
-<li>Databases: MySQL, SQL Server, MongoDB.</li>
-
+<li>Programming languages: JavaScript,Python,Java. </li>
+<li> Frameworks : React JS, VueJs, Express Js and Node JS.</li>
+<li>Databases: My SQl, Mongo DB,Oracle.</li>
+<li>Tools: Visual Studio Code, IntelliJ,Eclipse, Pycharm.</li>
+<li>DevOps: Git,Github, Docker, Jenkins, AWS EC2, AWS S3.</li>
 
 
 </ul>
@@ -27,9 +30,10 @@ With a proven track record of improving financial processes and reporting effici
 
 <ul>
 	<li><strong>University of Dayton, Dayton, OH, United States.</strong><br>
-	Masters in Business and Finance, Management sciences and Quantitative Methods.<br>
+	Masters in Computer Science.<br>
 	<i>Aug 2021 - Aug 2023</i></li>
-	<li><strong>NMKRV College for Women, Bangalore, India.</strong><br>
-	Bachelor in Commerce.<br>
-	<i>Jul 2016 - jul 2019</i></li>
+	<li><strong>Gurunanak University, Hyderabad, India.</strong><br>
+	Bachelor in Computer Science.<br>
+	<i>Jul 2012 - jul 2016</i></li>
 </ul>
+
