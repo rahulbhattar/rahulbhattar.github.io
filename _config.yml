@@ -1,6 +1,6 @@
 # main text of home
-title: Nirmala Mallikarjuna
-bio: Financial Analyst
+title: Rahul Bhattar
+bio: Full stack developer
 
 # twitter summary info
 description: Personal Portfolio
@@ -8,7 +8,7 @@ description: Personal Portfolio
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/nm.jpeg
+picture: assets/images/ra.jpeg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -18,7 +18,7 @@ dark-theme: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/Nirmala_Resume.pdf
+resume-url: assets/Rahul bhattar full-stack.pdf
 
 domain: https://rahulbhattar.github.io
 url: https://rahulbhattar.github.io
@@ -38,16 +38,16 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: nirmala-mallikarjuna12
-github: NirmalaMallikarjuna1
-email: Nirmala.12mallikarjuna@gmail.com
+linkedin: Bhattar Rahul
+github: rahulbhattar
+email: rahulbhattar30@gmail.com
 
 authors:
   johndoe:
-    name: Nirmala Mallikarjuna
-    bio: Financial Analyst
+    name: Rahul Bhattar
+    bio: Full-stack developer
     external-image: false
-    picture: assets/images/Nirmala.jpeg
+    picture: assets/images/Rahul.jpeg
     #twitter: johndoe
 
 
